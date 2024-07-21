@@ -2,7 +2,7 @@
 - 👀 I’m interested in make a new friend for discuss and collaborating
 - 🌱 I’m currently learning web development and software engineer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me you can dm me on twitter @sabilillahy
+- 📫 How to reach me you can dm me on twitter @ymyyyu
 
 <!---
 BonuYuga/BonuYuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
